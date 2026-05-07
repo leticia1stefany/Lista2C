@@ -8,7 +8,7 @@ int main(){
     float temp, maior, menor;
 
     for(int i = 0; i < 5; i++){
-        printf("Digite a temperatura da sua20 CPU registrada no instante %d: ", i + 1);
+        printf("Digite a temperatura da sua CPU registrada no instante %d: ", i + 1);
         scanf("%f", &temp);
 
         if(i == 0){
