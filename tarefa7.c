@@ -24,8 +24,8 @@ int main(){
         }
     }
 
-    printf("Maior temperatura registrada: %.2f\n  ", maior);
-    printf("Menor temperatura registrada: %.2f\n", menor);
+    printf("Maior temperatura registrada: %.2f\n °C ", maior);
+    printf("Menor temperatura registrada: %.2f\n °C", menor);
 
     return 0;
 }
